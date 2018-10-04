@@ -1,0 +1,1 @@
+{"name":"com.casper.mobapp","version":"1.0.0","displayName":"Base App","cordova":{"platforms":["android"]},"dependencies":{"cordova-android":"~7.0.0"}}
